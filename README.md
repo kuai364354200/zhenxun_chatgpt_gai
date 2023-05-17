@@ -4,7 +4,7 @@
 
 https://github.com/CRAZYShimakaze/zhenxun_extensive_plugin/tree/main/chatgpt
 
-真寻机器人的chatgpt插件
+改来自用真寻机器人的chatgpt插件
 
 chatgpt问答（支持上下文）
 
